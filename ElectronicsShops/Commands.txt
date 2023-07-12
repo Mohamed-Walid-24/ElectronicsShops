@@ -1,0 +1,1 @@
+pyuic5 -x GUI_ElecStores.ui -o GUI_ElecStores.py

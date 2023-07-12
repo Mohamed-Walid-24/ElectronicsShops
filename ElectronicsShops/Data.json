@@ -1,0 +1,84 @@
+{
+    "Stores": [
+        {
+            "storeName": "Ram",
+            "link": "https://ram-e-shop.com/?s={}&post_type=product",
+            "search": false
+        },
+        {
+            "storeName": "Free",
+            "link": "https://free-electronic.com/?s={}&post_type=product",
+            "search": false
+        },
+        {
+            "storeName": "HD",
+            "link": "https://hdelectronicseg.com/search?q={}",
+            "search": true
+        },
+        {
+            "storeName": "Circuits-elec",
+            "link": "https://circuits-elec.com/search?q={}",
+            "search": true
+        },
+        {
+            "storeName": "Makers",
+            "link": "https://makerselectronics.com/?term=&s={}&post_type=product&taxonomy=product_cat",
+            "search": false
+        },
+        {
+            "storeName": "Future",
+            "link": "https://store.fut-electronics.com/search?type=product&q={}",
+            "search": false
+        },
+        {
+            "storeName": "3D-Smart",
+            "link": "https://3dsmart-shop.com/?s={}&post_type=product&dgwt_wcas=1",
+            "search": false
+        },
+        {
+            "storeName": "Juthour",
+            "link": "https://www.juthour-tech.com/en/search?q={}",
+            "search": false
+        },
+        {
+            "storeName": "Ampere",
+            "link": "https://www.ampere-electronics.com/?s={}&post_type=product&dgwt_wcas=1",
+            "search": false
+        },
+        {
+            "storeName": "Circuits",
+            "link": "https://circuit-electronics.com/?s={}&post_type=product",
+            "search": false
+        },
+        {
+            "storeName": "Electra",
+            "link": "https://electra.store/?s={}&post_type=product",
+            "search": false
+        },
+        {
+            "storeName": "Fair",
+            "link": "https://fair-e-store.com/search/{}",
+            "search": false
+        },
+        {
+            "storeName": "Lampatronics",
+            "link": "https://lampatronics.com/?s={}&post_type=product&dgwt_wcas=1",
+            "search": false
+        },
+        {
+            "storeName": "MicroOhm",
+            "link": "https://microohm-eg.com/?s={}&post_type=product&product_cat=0",
+            "search": false
+        },
+        {
+            "storeName": "Uge",
+            "link": "https://uge-one.com/index.php?route=product/search&search={}",
+            "search": false
+        },
+        {
+            "storeName": "Filotronix",
+            "link": "https://www.filotronix.com/search?controller=search&s={}",
+            "search": false
+        }
+    ]
+}
